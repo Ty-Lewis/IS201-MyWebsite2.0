@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 202, 202);
+}
+
+mb-4{color: grey;
+}
+.mb-5{color:rgb(236, 227, 227)}
+.style{font-size: medium;
+font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.size
+{width: 300px;
+height: 300px}
